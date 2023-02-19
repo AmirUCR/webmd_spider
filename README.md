@@ -20,10 +20,3 @@ Here's a snapshot of what the output .csv file looks like:
 # Tools
 * Python 3
 * Scrapy https://scrapy.org/ and https://anaconda.org/conda-forge/scrapy
-
-# Sources referred:
-https://www.webmd.com/ <br />
-https://github.com/jasonjjchen/Web_Scraping-WebMD_Scrapy <br /> 
-https://stackoverflow.com/questions/51354279/xpath-taking-text-with-hyperlinks-python <br />
-https://docs.scrapy.org/en/latest/topics/ <br />
-https://www.mikulskibartosz.name/how-to-scrape-a-single-web-page-using-scrapy-in-jupyter-notebook/ 
